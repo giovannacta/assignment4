@@ -1,8 +1,23 @@
 /*
 CSS Style
 Author: Giovanna Andrade
+Wed nov 22 2023
 */
-
+* {
+    font-size: 12px;
+}
 body {
-    background-color: aliceblue;
+    background-color: rgb(223, 220, 216);
+    margin: 20px;
+}
+h1 {
+    font-size: 2rem;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+.form {
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
 }
